@@ -56,9 +56,4 @@ The target variable is the **diagnosis** (`M` = malignant, `B` = benign).
 
 While both models performed well, **Logistic Regression** achieved higher accuracy and recall, making it a more reliable choice for early detection and diagnosis of breast cancer.
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/breast-cancer-prediction.git
 
